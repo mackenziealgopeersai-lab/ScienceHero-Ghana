@@ -1,0 +1,7 @@
+{
+  "name": "ScienceHero Ghana",
+  "description": "A fun and interactive AI-powered Science learning app designed specifically for Junior High School students in Ghana, featuring a friendly AI tutor and exciting quizzes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
